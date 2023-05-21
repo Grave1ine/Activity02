@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.Toast
+import otus.gpb.homework.activities.common.Payload
 
 class SenderActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

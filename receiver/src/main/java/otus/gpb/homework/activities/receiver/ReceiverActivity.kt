@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import otus.gpb.homework.activities.common.Payload
 import otus.gpb.homework.activities.receiver.R.drawable
 
 
